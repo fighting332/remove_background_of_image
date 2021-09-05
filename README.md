@@ -1,0 +1,2 @@
+# remove_background_of_image
+remove_background_of_image
